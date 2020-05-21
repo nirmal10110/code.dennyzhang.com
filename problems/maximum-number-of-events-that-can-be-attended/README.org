@@ -65,7 +65,6 @@ Constraints:
 - 1 <= events[i][0] <= events[i][1] <= 10^5
 - Github: [[https://github.com/dennyzhang/code.dennyzhang.com/tree/master/problems/maximum-number-of-events-that-can-be-attended][code.dennyzhang.com]]
 
-
 Credits To: [[https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/][leetcode.com]]
 
 Leave me comments, if you have better ways to solve.
